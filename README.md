@@ -1,4 +1,4 @@
-# free-members-discord-bot
+# free-members-discord-bo
 
 free-members-discord-bot by = Parrot Games (toolbee) is a fast, async Discord bot built with FastAPI, designed for member backup and restoration using stored tokens (auths). This streamlined version focuses on speed and simplicity.
 
